@@ -1,0 +1,25 @@
+{
+#公众号配置
+#公众号appid
+"app_id":"wx137b08bb1511a58b",
+#公众号appSecret
+"app_secret":"2f59c0a4e554a8f535c7a4a984fea143",
+#模板消息id
+"template_id":"ZF7s-6nVQ_S2ut00c7Y4Z5Az-xCk25oDIhXyayYkIkI",
+#接收公众号消息的微信号，如果有多个，需要在【】里用英文逗号间隔
+"user":["oBoD15jCnAQ64BY3Asr7PcSzOBoI"],
+
+#信息配置
+#和风天气apikey
+"weather_key":"d5d46fa964194838b10111af3f833b37",
+#所在的地区
+"region":"武汉市",
+#生日1
+"birthday1":{"name":"老婆","birthday":"2001-3-4"},
+#r在一起的日子
+"love_date":"2020-07-08",
+# 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+"note_ch": "",
+# 金句英文
+"note_en": ""
+}
